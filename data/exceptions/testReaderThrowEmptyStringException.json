@@ -1,0 +1,29 @@
+[
+  {
+    "courses": [
+      {
+        "code": 110,
+        "credits": 4,
+        "subject": "CPSC"
+      },
+      {
+        "code": 210,
+        "credits": 4,
+        "subject": "CPSC"
+      }
+    ],
+    "name": "Computer Science",
+    "type": "Undergraduate",
+    "faculty": ""
+  },
+  {
+    "courses": [{
+      "code": 112,
+      "credits": 3,
+      "subject": "BIOL"
+    }],
+    "name": "Biology",
+    "type": "Undergraduate",
+    "faculty": "Science"
+  }
+]

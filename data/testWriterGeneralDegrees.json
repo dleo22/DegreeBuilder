@@ -1,0 +1,25 @@
+[
+    {
+        "courses": [
+            {
+                "code": 100,
+                "credits": 3,
+                "subject": "MATH"
+            },
+            {
+                "code": 101,
+                "credits": 3,
+                "subject": "MATH"
+            }
+        ],
+        "name": "Maths",
+        "type": "Undergraduate",
+        "faculty": "Science"
+    },
+    {
+        "courses": [],
+        "name": "Maths",
+        "type": "Doctorate",
+        "faculty": "Science"
+    }
+]

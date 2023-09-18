@@ -1,0 +1,17 @@
+[
+  {
+    "code": 110,
+    "credits": 4,
+    "subject": "CPSC"
+  },
+  {
+    "code": 210,
+    "credits": 4,
+    "subject": "CPSC"
+  },
+  {
+    "code": 112,
+    "credits": 3,
+    "subject": "BIOL"
+  }
+]
